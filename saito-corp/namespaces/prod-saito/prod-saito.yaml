@@ -3,4 +3,4 @@ kind: Namespace
 metadata:
   name: prod-saito
   labels:
-    istio-injection=enabled
+    istio-injection: enabled
